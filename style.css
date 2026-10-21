@@ -1,0 +1,23 @@
+Body {
+baground-color: #ff3e85; /* warna pink */
+font-family; Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
+color: #191970; /* warna teks utama (Biru gelap) */
+}
+
+.kartu profil {
+  width: 300px;
+  margin:50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  bacground-color: white;
+  border-radius: px; /*membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgbe(0,0,0,0,1); /* efek bayangan*/
+}
+
+.kartu-profil img {
+  widht: 150px;
+  border-radius: 5px;
+}
+
+.kartu profil{
+  text-align: center;
+}
